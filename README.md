@@ -1,4 +1,12 @@
 hello-word
 ==========
 
-A fun little repository where people can tell strangers on the internet things about themselves. Made with :heart: for GitHub Patchwork.
+### About
+
+This is a fun little project where GitHub users can come and provide a little blurb about themselves for the strange folk of the internet. To contribute, simply submit a Pull Request with your GitHub username, "Hello, World!", and a tidbit about yourself (or a random observation or just something random) - see the examples below for format and inspiration.
+
+Made with :heart: for [GitHub Patchwork](https://github.com/blog/1894-patchwork-night-sf-edition).
+
+### All De Peeps
+
+[@todd](https://github.com/todd) Hello, World! I have written approximately 1/5 of all my own code while wearing only pajama pants.
