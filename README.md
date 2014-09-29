@@ -10,3 +10,5 @@ Made with :heart: for [GitHub Patchwork](https://github.com/blog/1894-patchwork-
 ### All De Peeps
 
 [@todd](https://github.com/todd) Hello, World! I have written approximately 1/5 of all my own code while wearing only pajama pants.
+
+[@manfrin](https://github.com/manfrin) Hello, World! I think the wiki page for [List of Unusual Deaths](http://en.wikipedia.org/wiki/List_of_unusual_deaths) is the single best page on wikipedia. Chrysippus's death-by-laughing is my favorite. 
