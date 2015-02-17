@@ -18,3 +18,4 @@ Made with :heart: for [GitHub Patchwork](https://github.com/blog/1894-patchwork-
 | [@tk-421] (https://github.com/tk-421) |Hallo Welt, Star Wars ist der beste Film aller Zeiten und ist die größte Scotch trinken je. Spaß am git Lernen. Die meisten meiner Code ist Müll |
 | [@star-bit](https://github.com/star-bit) | Random Fact: There is a species of armadillo that is tiny and pink! |
 | [@RichardLitt](https://github.com/RichardLitt) | Hello World! I am currently coding in Philz Coffee in the Mission. | 
+| [@tdlogan](https://github.com/tdlogan) | Hello World! I get my best work done when fully blasting on caffeine! |
